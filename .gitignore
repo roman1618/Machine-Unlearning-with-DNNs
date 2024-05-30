@@ -1,0 +1,4 @@
+# Ignorar todos los archivos que son Jupyter Notebooks
+*.pkl
+*.keras
+*.png
