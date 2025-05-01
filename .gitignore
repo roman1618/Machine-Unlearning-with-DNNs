@@ -2,4 +2,5 @@
 *.pkl
 *.keras
 *.png
+# Ignorar tesis
 TFG_Machine_Unlearning.pdf
